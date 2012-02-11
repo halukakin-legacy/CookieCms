@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<about>
+  <contents>
+      <item>
+        <title>adres</title>
+        <content><![CDATA[ 
+        <p class="adrss">EGS Business Park Blokları B3 Blok K:4 No:187<br />
+        Havalimanı Kavşağı Yeşilköy / İstanbul</p>
+        
+        <p class="tel">TEL: +90 (212) 465 79 50<br /> FAX: +90 (212) 465 79 19 </p>
+        <p class="web">E-mail: <a href="#">info@sarikilic.com</a><br /><a href="#">web: www.sarikılıc.com</a></p>
+        ]]></content>
+      </item>
+                 
+  </contents>
+</about>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<about>
+  <contents>
+    <topContent type="Üst paragraf"><![CDATA[Orange]]></topContent>
+    <leftContent type="Sol paragraf"><![CDATA[leftContentleftContentleftContent]]></leftContent>
+    <rightContent type="Sağ paragraf"><![CDATA[righContentrighContentrighContent]]></rightContent>
+  </contents>
+</about>
